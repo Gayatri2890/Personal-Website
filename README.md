@@ -4,6 +4,6 @@ Welcome to my portfolio! Explore my projects showcasing my skills and passion fo
  
 
 - [Home](#Home)
-- [Setup](#setup)
-- [License](#license)
+- [Education](#education)
+- [Services](#services)
 - [Contact](#contact)
